@@ -1,0 +1,2 @@
+# Custom-Chatbot-with-PDF-Data-Extraction-and-GPT-3.5-with-flask-api-Integration
+This project creates a special chatbot. It uses smart methods to get information from PDF files. It also makes new content with the help of OpenAI's GPT-3.5 model. The chatbot works smoothly with a Flask API. It's made to quickly find and share the right information with users. It can handle both organized and unorganized data.
